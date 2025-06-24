@@ -8,3 +8,4 @@ wordcloud
 tqdm
 streamlit
 transformers
+torch
